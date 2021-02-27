@@ -1,0 +1,76 @@
+
+black_roll.png
+size: 500,356
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+black_roll/L_eye
+  rotate: false
+  xy: 421, 274
+  size: 76, 80
+  orig: 76, 80
+  offset: 0, 0
+  index: -1
+black_roll/L_eye_angry
+  rotate: false
+  xy: 421, 189
+  size: 72, 83
+  orig: 72, 83
+  offset: 0, 0
+  index: -1
+black_roll/R_eye
+  rotate: false
+  xy: 331, 113
+  size: 81, 79
+  orig: 81, 79
+  offset: 0, 0
+  index: -1
+black_roll/R_eye_angry
+  rotate: true
+  xy: 331, 39
+  size: 72, 83
+  orig: 72, 83
+  offset: 0, 0
+  index: -1
+black_roll/R_eyeclose
+  rotate: false
+  xy: 414, 126
+  size: 60, 61
+  orig: 60, 61
+  offset: 0, 0
+  index: -1
+black_roll/body
+  rotate: false
+  xy: 2, 2
+  size: 259, 206
+  orig: 259, 206
+  offset: 0, 0
+  index: -1
+black_roll/horn
+  rotate: false
+  xy: 2, 210
+  size: 347, 144
+  orig: 347, 144
+  offset: 0, 0
+  index: -1
+black_roll/mouth
+  rotate: true
+  xy: 416, 13
+  size: 111, 43
+  orig: 111, 43
+  offset: 0, 0
+  index: -1
+black_roll/mouth_angry
+  rotate: true
+  xy: 263, 40
+  size: 168, 66
+  orig: 168, 66
+  offset: 0, 0
+  index: -1
+black_roll/mouth_smile
+  rotate: true
+  xy: 351, 194
+  size: 160, 68
+  orig: 160, 68
+  offset: 0, 0
+  index: -1

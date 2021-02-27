@@ -1,0 +1,125 @@
+
+turtle.png
+size: 800,524
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+turtle/L_arm
+  rotate: true
+  xy: 697, 379
+  size: 143, 99
+  orig: 143, 99
+  offset: 0, 0
+  index: -1
+turtle/L_hand
+  rotate: true
+  xy: 159, 35
+  size: 95, 106
+  orig: 95, 106
+  offset: 0, 0
+  index: -1
+turtle/R_arm
+  rotate: false
+  xy: 662, 132
+  size: 134, 142
+  orig: 134, 142
+  offset: 0, 0
+  index: -1
+turtle/R_hand
+  rotate: false
+  xy: 2, 26
+  size: 155, 104
+  orig: 155, 104
+  offset: 0, 0
+  index: -1
+turtle/R_leg
+  rotate: true
+  xy: 402, 111
+  size: 144, 150
+  orig: 144, 150
+  offset: 0, 0
+  index: -1
+turtle/body
+  rotate: false
+  xy: 2, 132
+  size: 398, 390
+  orig: 398, 390
+  offset: 0, 0
+  index: -1
+turtle/brow
+  rotate: true
+  xy: 267, 2
+  size: 128, 37
+  orig: 128, 37
+  offset: 0, 0
+  index: -1
+turtle/eye
+  rotate: true
+  xy: 350, 20
+  size: 110, 50
+  orig: 110, 50
+  offset: 0, 0
+  index: -1
+turtle/eye_angry
+  rotate: true
+  xy: 306, 16
+  size: 114, 42
+  orig: 114, 42
+  offset: 0, 0
+  index: -1
+turtle/eyeclose
+  rotate: false
+  xy: 402, 59
+  size: 110, 50
+  orig: 110, 50
+  offset: 0, 0
+  index: -1
+turtle/hat
+  rotate: false
+  xy: 662, 8
+  size: 131, 122
+  orig: 131, 122
+  offset: 0, 0
+  index: -1
+turtle/head
+  rotate: true
+  xy: 402, 257
+  size: 265, 222
+  orig: 265, 222
+  offset: 0, 0
+  index: -1
+turtle/horn
+  rotate: true
+  xy: 554, 5
+  size: 250, 106
+  orig: 250, 106
+  offset: 0, 0
+  index: -1
+turtle/mask
+  rotate: true
+  xy: 626, 276
+  size: 246, 69
+  orig: 246, 69
+  offset: 0, 0
+  index: -1
+turtle/mouth
+  rotate: false
+  xy: 697, 340
+  size: 90, 37
+  orig: 90, 37
+  offset: 0, 0
+  index: -1
+turtle/mouth_angry
+  rotate: true
+  xy: 402, 3
+  size: 54, 88
+  orig: 54, 88
+  offset: 0, 0
+  index: -1
+turtle/tail
+  rotate: false
+  xy: 697, 277
+  size: 76, 61
+  orig: 76, 61
+  offset: 0, 0
+  index: -1
